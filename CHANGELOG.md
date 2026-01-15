@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-11)
+## Unreleased (2026-01-15)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`eee0e09`](https://github.com/stdlib-js/stdlib/commit/eee0e097b23ead16e0933da53a9a1c40dc5b713e) - **docs:** remove extra empty line [(#9756)](https://github.com/stdlib-js/stdlib/pull/9756) _(by stdlib-bot)_
 -   [`c6e2443`](https://github.com/stdlib-js/stdlib/commit/c6e24436d222d609c3ea153fd81f31e1d16451bc) - **feat:** add `ndarray/base/ternary` [(#9566)](https://github.com/stdlib-js/stdlib/pull/9566) _(by Muhammad Haris, Athan Reines)_
 
 </details>
