@@ -46,7 +46,7 @@
     "@stdlib/ndarray-base-ternary-loop-interchange-order": "github:stdlib-js/ndarray-base-ternary-loop-interchange-order#main",
     "@stdlib/ndarray-base-ternary-tiling-block-size": "^0.1.0",
     "@stdlib/ndarray-base-vind2bind": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/types": "^0.4.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
