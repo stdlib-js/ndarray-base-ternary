@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ternary from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary@esm/index.mjs';
+import ternary from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary@v0.1.0-esm/index.mjs';
 ```
 
 #### ternary( arrays, fcn )
@@ -175,7 +175,7 @@ import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by
 import add3 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-add3@esm/index.mjs';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to-array@esm/index.mjs';
-import ternary from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary@esm/index.mjs';
+import ternary from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ternary@v0.1.0-esm/index.mjs';
 
 var N = 10;
 var x = {
